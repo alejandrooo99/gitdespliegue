@@ -12,7 +12,9 @@ and open the template in the editor.
     <body>
         <?php
             echo "esto es un proyecto de prueba de git";
-            echo "voy a guardar el primer commit"
+            echo "voy a guardar el primer commit";
+            echo "alguna linea mas";
+            echo "voy a guardar el segundo commit";
         ?>
     </body>
 </html>
