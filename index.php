@@ -15,6 +15,7 @@ and open the template in the editor.
             echo "voy a guardar el primer commit";
             echo "alguna linea mas";
             echo "voy a guardar el segundo commit";
+            echo "tercer commit";
         ?>
     </body>
 </html>
